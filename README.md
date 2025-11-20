@@ -1,3 +1,3 @@
 # my_first_repo
 
-#type a coment here 
+Type a comment here 
